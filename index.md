@@ -81,7 +81,7 @@ Low-Battery is crafted with dynamic vector layouts to adapt seamlessly to all Ap
 
 | Category | Supported Devices & Form Factors |
 | :--- | :--- |
-| **Dynamic Island iPhones** | **iPhone 16 / 16 Pro / Pro Max**, **iPhone 15 / 15 Pro / Pro Max**, **iPhone 14 Pro / Pro Max** |
+| **Dynamic Island iPhones** | **iPhone 15, 16, 17 and 18 / Pro / Pro Max**, **iPhone 14 Pro / Pro Max** |
 | **Notch iPhones** | **iPhone 14 / 14 Plus**, **iPhone 13 mini / 13 / 13 Pro**, **iPhone 12 / 11 / X / XR / XS** |
 | **Touch ID / Home Button** | **iPhone SE (2nd &amp; 3rd Gen)**, **iPhone 8 / 7 / 6s** |
 | **iPadOS Form Factors** | **iPad Pro**, **iPad Air**, **iPad mini**, **Standard iPad** |
